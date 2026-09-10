@@ -1,4 +1,4 @@
-FROM node:24.14.0
+FROM node:24.21.0
 
 LABEL tag="ackee-gitlab" \
       author="Ackee 🦄" \
